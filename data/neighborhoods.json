@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "Name": "Maadi",
+    "Population": 250000,
+    "Type": "Residential",
+    "X": 31.25,
+    "Y": 29.96
+  },
+  {
+    "ID": 2,
+    "Name": "Nasr City",
+    "Population": 500000,
+    "Type": "Mixed",
+    "X": 31.34,
+    "Y": 30.06
+  },
+  {
+    "ID": 3,
+    "Name": "Downtown Cairo",
+    "Population": 100000,
+    "Type": "Business",
+    "X": 31.24,
+    "Y": 30.04
+  },
+  {
+    "ID": 4,
+    "Name": "New Cairo",
+    "Population": 300000,
+    "Type": "Residential",
+    "X": 31.47,
+    "Y": 30.03
+  },
+  {
+    "ID": 5,
+    "Name": "Heliopolis",
+    "Population": 200000,
+    "Type": "Mixed",
+    "X": 31.32,
+    "Y": 30.09
+  },
+  {
+    "ID": 6,
+    "Name": "Zamalek",
+    "Population": 50000,
+    "Type": "Residential",
+    "X": 31.22,
+    "Y": 30.06
+  },
+  {
+    "ID": 7,
+    "Name": "6th October City",
+    "Population": 400000,
+    "Type": "Mixed",
+    "X": 30.98,
+    "Y": 29.93
+  },
+  {
+    "ID": 8,
+    "Name": "Giza",
+    "Population": 550000,
+    "Type": "Mixed",
+    "X": 31.21,
+    "Y": 29.99
+  },
+  {
+    "ID": 9,
+    "Name": "Mohandessin",
+    "Population": 180000,
+    "Type": "Business",
+    "X": 31.2,
+    "Y": 30.05
+  },
+  {
+    "ID": 10,
+    "Name": "Dokki",
+    "Population": 220000,
+    "Type": "Mixed",
+    "X": 31.2118,
+    "Y": 30.0387
+  },
+  {
+    "ID": 11,
+    "Name": "Shubra",
+    "Population": 450000,
+    "Type": "Residential",
+    "X": 31.24,
+    "Y": 30.11
+  },
+  {
+    "ID": 12,
+    "Name": "Helwan",
+    "Population": 350000,
+    "Type": "Industrial",
+    "X": 31.33,
+    "Y": 29.85
+  },
+  {
+    "ID": 13,
+    "Name": "New Administrative Capital",
+    "Population": 50000,
+    "Type": "Government",
+    "X": 31.8,
+    "Y": 30.02
+  },
+  {
+    "ID": 14,
+    "Name": "Al Rehab",
+    "Population": 120000,
+    "Type": "Residential",
+    "X": 31.49,
+    "Y": 30.06
+  },
+  {
+    "ID": 15,
+    "Name": "Sheikh Zayed",
+    "Population": 150000,
+    "Type": "Residential",
+    "X": 30.94,
+    "Y": 30.01
+  }
+]
